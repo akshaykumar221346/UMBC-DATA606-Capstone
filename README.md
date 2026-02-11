@@ -38,7 +38,6 @@ Output variable (based on sensory data): \
 <li>XGBoost
 <li>LightGBM
   
-**Best Model Accuracy:** 89.00
 
 # Future Work
 
@@ -46,4 +45,5 @@ Output variable (based on sensory data): \
 <li>Removing Attributes
 <li>Hyperparameter Tuning
 <li>Random UnderSampling
+
 
