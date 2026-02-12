@@ -22,6 +22,19 @@ Output variable (based on sensory data): \
 
 **Download link:** https://www.kaggle.com/rajyellow46/wine-quality
 
+Dataset Overview
+
+~6,400+ wine samples
+
+11 physicochemical features
+
+1 target variable (quality score 0–10)
+
+Real-world dataset (UCI + Kaggle source)
+
+Contains class imbalance
+
+Numeric, structured data
 # Libraries
 
 <li>pandas
@@ -45,6 +58,7 @@ Output variable (based on sensory data): \
 <li>Removing Attributes
 <li>Hyperparameter Tuning
 <li>Random UnderSampling
+
 
 
 
