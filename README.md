@@ -1,4 +1,4 @@
-# Wine Quality Prediction Analysis - Classification
+# Comparative Analysis of Ensemble Machine Learning Models for Wine Quality Classification
 
 # Dataset Information
 
@@ -45,5 +45,6 @@ Output variable (based on sensory data): \
 <li>Removing Attributes
 <li>Hyperparameter Tuning
 <li>Random UnderSampling
+
 
 
