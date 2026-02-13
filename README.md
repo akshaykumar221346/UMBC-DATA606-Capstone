@@ -135,22 +135,3 @@ These models were chosen to compare:
 
 ---
 
-## Project Structure
-
-```
-├── data/
-│   └── winequality.csv
-├── notebooks/
-│   └── Wine_Quality_Prediction_Analysis.ipynb
-├── models/
-│   └── best_model.pkl
-└── README.md
-```
-
----
-
-## Conclusion
-
-This project demonstrates an end-to-end machine learning pipeline for wine quality classification. It highlights the effectiveness of ensemble learning techniques and provides insights into the chemical properties that influence wine quality.
-
----
