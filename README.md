@@ -63,6 +63,17 @@ The red and white wine datasets were combined. A few values were randomly remove
 - Optimize models for better accuracy
 
 ---
+Here is the short version (3–4 main research questions) perfect for slides or proposal:
+
+## Main Research Questions
+
+Can physicochemical properties reliably predict wine quality using machine learning?
+
+Which type of model performs best for wine quality classification — linear, tree-based, or ensemble boosting models?
+
+Do ensemble models like Random Forest, XGBoost, and LightGBM outperform traditional models such as Logistic Regression?
+
+Which chemical features contribute most to predicting wine quality?
 
 ## Methodology
 
@@ -79,7 +90,7 @@ The project follows a structured machine learning workflow:
 
 ---
 
-## Future Work
+## Future Work 
 
 - Outlier detection and removal  
 - Feature selection techniques  
@@ -89,6 +100,10 @@ The project follows a structured machine learning workflow:
 - Model explainability using SHAP  
 
 ---
+
+## Streamlit Deployment
+
+After identifying the best-performing machine learning model, the final step of this project is deployment using Streamlit. This transforms the trained model into an interactive web application for real-time wine quality prediction
 
 ## Libraries Used
 
@@ -101,6 +116,7 @@ The project follows a structured machine learning workflow:
 - LightGBM  
 
 ---
+
 
 
 
