@@ -94,15 +94,6 @@ These models were chosen to compare:
 
 ---
 
-## Results
-
-- Alcohol shows strong positive correlation with wine quality  
-- Volatile acidity shows negative correlation  
-- Ensemble and boosting models outperform basic linear models  
-- Best model achieved approximately **89% accuracy**
-
----
-
 ## Challenges
 
 - Class imbalance (more average-quality wines than extreme ones)
@@ -134,4 +125,5 @@ These models were chosen to compare:
 - LightGBM  
 
 ---
+
 
