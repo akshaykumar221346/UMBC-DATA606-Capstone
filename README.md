@@ -1,5 +1,9 @@
 # 🍷 Comparative Analysis of Ensemble Machine Learning Models for Wine Quality Classification
 
+Prepared for UMBC Data Science Master Degree Capstone
+Dr. Chaojie (Jay) Wang
+
+Author: Akshay Kumar Nagabandi
 ## Project Overview
 
 This project focuses on building and comparing multiple machine learning models to predict wine quality using physicochemical properties. The objective is to evaluate different classification algorithms and identify the most effective approach for wine quality prediction.
@@ -97,6 +101,7 @@ The project follows a structured machine learning workflow:
 - LightGBM  
 
 ---
+
 
 
 
