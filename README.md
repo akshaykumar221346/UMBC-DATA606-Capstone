@@ -63,7 +63,6 @@ The red and white wine datasets were combined. A few values were randomly remove
 - Optimize models for better accuracy
 
 ---
-Here is the short version (3–4 main research questions) perfect for slides or proposal:
 
 ## Main Research Questions
 
@@ -116,6 +115,7 @@ After identifying the best-performing machine learning model, the final step of 
 - LightGBM  
 
 ---
+
 
 
 
