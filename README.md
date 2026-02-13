@@ -72,34 +72,6 @@ The project follows a structured machine learning workflow:
 6. Model Evaluation  
 7. Performance Comparison  
 
----
-
-## Machine Learning Algorithms Used
-
-The following classification models were implemented and compared:
-
-- Logistic Regression  
-- Decision Tree  
-- Random Forest  
-- Extra Trees  
-- XGBoost  
-- LightGBM  
-
-These models were chosen to compare:
-
-- Linear models  
-- Tree-based models  
-- Ensemble methods  
-- Boosting algorithms  
-
----
-
-## Challenges
-
-- Class imbalance (more average-quality wines than extreme ones)
-- Potential outliers
-- Ordered target variable
-- Possible irrelevant features
 
 ---
 
@@ -125,5 +97,6 @@ These models were chosen to compare:
 - LightGBM  
 
 ---
+
 
 
