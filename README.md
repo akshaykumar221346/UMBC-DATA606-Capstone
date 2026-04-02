@@ -21,7 +21,7 @@ https://www.kaggle.com/rajyellow46/wine-quality
 
 ### Dataset Characteristics
 
-- ~6,400+ wine samples  
+- 1599 wine samples  
 - 11 physicochemical input features  
 - 1 output variable (quality score between 0 and 10)  
 - Structured numerical dataset  
