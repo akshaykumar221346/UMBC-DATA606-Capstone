@@ -1,6 +1,7 @@
 # 🍷 Wine Quality Prediction using Machine Learning and Streamlit
 
 Prepared for UMBC Data Science Master Degree
+
 Dr. Chaojie (Jay) Wang
 
 Author: Akshay Kumar Nagabandi
