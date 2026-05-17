@@ -1,1 +1,27 @@
+# 🖼 Images Folder
+
+This folder contains images and visual resources used in the **Wine Quality Prediction using Machine Learning and Streamlit** project.
+
+## Contents
+
+📊 **EDA Visualizations**
+- Quality Distribution Chart
+- Correlation Heatmap
+- Feature Importance Chart
+- Model Comparison Chart
+
+📷 **Application Screenshots**
+- Streamlit Application Interface
+- Prediction Results
+- Dashboard Screenshots
+
+👨‍💻 **Profile Image**
+- Author profile picture used for documentation
+
+📄 **Project Figures**
+- Images used in report and presentation
+
+---
+
+These images are used for project documentation, analysis, presentation, and visualization purposes.
 
