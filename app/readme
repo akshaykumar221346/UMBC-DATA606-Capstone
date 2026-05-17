@@ -1,1 +1,71 @@
+# 🍷 Wine Quality Prediction using Machine Learning and Streamlit
 
+Prepared for UMBC Data Science Master Degree Capstone  
+Instructor: Dr. Chaojie (Jay) Wang  
+Author: Akshay Kumar Nagabandi  
+
+---
+
+## 📌 Project Overview
+
+This project predicts whether a red wine sample is **Good Quality** or **Not Good Quality** using machine learning and physicochemical properties of wine.
+
+The quality score was converted into binary classification:
+
+- Quality ≥ 7 → Good Quality  
+- Quality < 7 → Not Good Quality  
+
+The final model selected was **Random Forest**, based on its higher performance compared to other models.
+
+---
+
+## 🎯 Features
+
+✔ Dataset Overview  
+✔ Exploratory Data Analysis (EDA)  
+✔ Feature Importance Analysis  
+✔ Model Comparison  
+✔ Final Model Evaluation  
+✔ Real-time Prediction using Streamlit  
+✔ Download Prediction Results  
+
+---
+
+## 🤖 Models Used
+
+- Random Forest Classifier  
+- Decision Tree Classifier  
+- K-Nearest Neighbors (KNN)  
+
+---
+
+## 🛠 Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- Matplotlib  
+- Streamlit  
+
+---
+
+## 🚀 Run Project
+
+Install requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run Streamlit:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## ⭐ Conclusion
+
+This project demonstrates how machine learning can effectively predict wine quality using chemical properties and provides an interactive application for real-time prediction.
