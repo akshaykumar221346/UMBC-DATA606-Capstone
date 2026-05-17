@@ -1,1 +1,42 @@
+## 📊 Dataset Information
+
+**Dataset Name:** Red Wine Quality Dataset (Cortez et al., 2009)
+
+**Dataset Source:**  
+https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+### Dataset Summary
+
+| Attribute | Value |
+|------------|--------|
+| Total Samples | 1599 |
+| Input Features | 11 |
+| Target Variable | Quality |
+| Quality Range | 0–10 |
+| Dataset Type | Structured Numerical Dataset |
+| Wine Type | Portuguese Vinho Verde Red Wine |
+| Problem Type | Classification |
+
+### Input Features
+
+- Fixed Acidity  
+- Volatile Acidity  
+- Citric Acid  
+- Residual Sugar  
+- Chlorides  
+- Free Sulfur Dioxide  
+- Total Sulfur Dioxide  
+- Density  
+- pH  
+- Sulphates  
+- Alcohol  
+
+### Target Transformation
+
+```text
+Quality >= 7 → Good Quality
+Quality < 7 → Not Good Quality
+```
+
+This transformation converts the original quality score into a binary classification problem for machine learning prediction.
 
