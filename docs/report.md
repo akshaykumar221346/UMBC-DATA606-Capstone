@@ -1,10 +1,24 @@
 # 🍷 Wine Quality Prediction using Machine Learning and Streamlit
 
-**Prepared for:** UMBC Data Science Master Degree  
+**Prepared for:** UMBC Data Science Master Degree Capstone  
 **Instructor:** Dr. Chaojie (Jay) Wang  
+
 **Author:** Akshay Kumar Nagabandi  
 
-**Dataset:** Red Wine Quality Dataset (Cortez et al., 2009)
+**GitHub Repository:**  
+YOUR_GITHUB_LINK
+
+**PowerPoint Presentation:**  
+YOUR_PPT_LINK
+
+**YouTube Video:**  
+https://youtu.be/zXdWydna2GE?si=WCIyOuk0EzpLRCaE
+
+**Live Streamlit Application:**  
+YOUR_STREAMLIT_LINK
+
+**Dataset:**  
+YOUR_DATASET_LINK
 
 ---
 
