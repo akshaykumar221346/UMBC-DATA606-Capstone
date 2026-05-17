@@ -155,7 +155,8 @@ EDA helps in:
 
 ## Quality Distribution Analysis
 
-![Quality Distribution](quality_distribution.png)
+<img width="895" height="648" alt="image" src="https://github.com/user-attachments/assets/3cd52a61-670d-415d-b97a-72fa9de444d9" />
+
 
 ### Observations
 
