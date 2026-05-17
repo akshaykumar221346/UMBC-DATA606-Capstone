@@ -6,19 +6,19 @@
 **Author:** Akshay Kumar Nagabandi  
 
 **GitHub Repository:**  
-YOUR_GITHUB_LINK
+https://github.com/akshaykumar221346/UMBC-DATA606-Capstone.git
 
 **PowerPoint Presentation:**  
-YOUR_PPT_LINK
+https://github.com/akshaykumar221346/UMBC-DATA606-Capstone/blob/main/docs/wine_Quality.pptx
 
 **YouTube Video:**  
 https://youtu.be/zXdWydna2GE?si=WCIyOuk0EzpLRCaE
 
 **Live Streamlit Application:**  
-YOUR_STREAMLIT_LINK
+https://github.com/akshaykumar221346/UMBC-DATA606-Capstone/blob/main/app/app.py
 
 **Dataset:**  
-YOUR_DATASET_LINK
+https://github.com/akshaykumar221346/UMBC-DATA606-Capstone/tree/main/data
 
 ---
 
