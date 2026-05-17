@@ -173,7 +173,7 @@ This indicates that higher-quality wines occur less frequently in the dataset.
 
 ## Correlation Analysis
 
-![Correlation Heatmap](correlation_heatmap.png)
+<img width="1025" height="987" alt="image" src="https://github.com/user-attachments/assets/30053709-b242-4efc-a4b9-1468f8d37e39" />
 
 ### Observations
 
@@ -192,7 +192,7 @@ Correlation analysis helps identify relationships between variables and target o
 
 Feature importance analysis determines which variables contribute most toward prediction.
 
-![Feature Importance](feature_importance.png)
+<img width="1140" height="862" alt="image" src="https://github.com/user-attachments/assets/e3ad748c-729b-41a9-aee8-7905f119b373" />
 
 ### Observations
 
@@ -247,7 +247,7 @@ Evaluation metrics used:
 - Confusion Matrix
 - Classification Report
 
-![Model Comparison](model_comparison.png)
+<img width="977" height="708" alt="image" src="https://github.com/user-attachments/assets/bd631f0e-ec02-46bf-80d9-cc6677e3483c" />
 
 ### Observations
 
