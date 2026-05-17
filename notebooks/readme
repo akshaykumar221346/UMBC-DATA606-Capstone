@@ -1,1 +1,105 @@
+# 🍷 Wine Quality Prediction using Machine Learning
+
+Prepared for UMBC Data Science Master Degree Capstone  
+Instructor: Dr. Chaojie (Jay) Wang  
+Author: Akshay Kumar Nagabandi  
+
+---
+
+## 📌 Project Overview
+
+This project predicts whether a red wine sample is **Good Quality** or **Not Good Quality** using machine learning techniques and physicochemical properties of wine.
+
+The project includes data preprocessing, exploratory data analysis (EDA), model comparison, feature importance analysis, and deployment using Streamlit.
+
+---
+
+## 🎯 Objective
+
+- Predict wine quality using machine learning
+- Compare multiple classification models
+- Select the best-performing model
+- Deploy using Streamlit for real-time prediction
+
+---
+
+## 📊 Dataset
+
+**Dataset:** Red Wine Quality Dataset (Cortez et al., 2009)
+
+**Source:**  
+https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+Dataset Details:
+
+- Total Samples: 1599
+- Input Features: 11
+- Target Variable: Quality
+- Dataset Type: Structured Numerical Dataset
+
+---
+
+## 📘 Target Transformation
+
+```text
+quality >= 7 → Good Quality
+quality < 7 → Not Good Quality
+```
+
+---
+
+## 🤖 Models Used
+
+- Random Forest Classifier
+- Decision Tree Classifier
+- K-Nearest Neighbors (KNN)
+
+Final Selected Model:
+
+✅ Random Forest Classifier
+
+---
+
+## 📊 Features Included
+
+✔ Dataset Overview  
+✔ Exploratory Data Analysis  
+✔ Correlation Analysis  
+✔ Feature Importance  
+✔ Model Comparison  
+✔ Final Model Evaluation  
+✔ Real-time Prediction using Streamlit  
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Streamlit
+
+---
+
+## 🚀 Run Project
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## ⭐ Conclusion
+
+Random Forest achieved the highest performance among all models and was selected as the final model for predicting wine quality.
 
